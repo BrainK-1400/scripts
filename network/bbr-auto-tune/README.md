@@ -21,6 +21,19 @@
 
 ## 基本用法
 
+使用 `curl` 下载后运行：
+
+```bash
+curl -fsSLO https://raw.githubusercontent.com/BrainK-1400/scripts/main/network/bbr-auto-tune/bbr-auto-tune.sh
+bash bbr-auto-tune.sh
+```
+
+使用 `curl` 直接运行：
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/BrainK-1400/scripts/main/network/bbr-auto-tune/bbr-auto-tune.sh | bash
+```
+
 ```bash
 bash bbr-auto-tune.sh
 ```
